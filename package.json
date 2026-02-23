@@ -1,0 +1,19 @@
+{
+  "name": "af_lab3",
+  "version": "1.0.0",
+  "description": "This repo is to learn the basics of Node.js, Git and GitHub flows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pereragp/AF_LAB3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pereragp/AF_LAB3/issues"
+  },
+  "homepage": "https://github.com/pereragp/AF_LAB3#readme"
+}
