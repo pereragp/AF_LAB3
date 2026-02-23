@@ -80,3 +80,6 @@ myPromise
 }
 
 myFunction();
+
+//Collaboration chang
+console.log("Git Collaboration done by bimalka");
